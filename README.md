@@ -99,11 +99,12 @@ A voice-driven application that processes user speech and recommends songs based
 
 **Focus:** `Speech Processing` • `Python` • `AI` • `Web Development`
 
----
+
+
 
 # 🤖 AI / LLM Journey
 
-```
+```text
 LLM Applications
        ↓
 Prompt Engineering
@@ -115,16 +116,10 @@ Vector Databases
 RAG Pipelines
        ↓
 AI-powered Applications
-
-
-GitHub Status
-
+📊 GitHub Stats
 <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sumit200531&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit200531&layout=compact&theme=tokyonight&hide_border=true" /> </div>
-
 🔥 Contribution Streak
 <div align="center"> <img src="https://streak-stats.demolab.com?user=Sumit200531&theme=tokyonight&hide_border=true" /> </div>
-
-
 🧠 Currently Learning
 ☕ Java & Spring Boot
 🌐 Node.js & Backend Architecture
@@ -135,7 +130,6 @@ GitHub Status
 🔎 RAG Pipelines
 🧠 AI Engineering
 ⚡ System Design
-
 🎯 2026 Goals
 🚀 Build production-ready applications
 💼 Get a Software Engineering internship
@@ -144,13 +138,14 @@ GitHub Status
 🤖 Build practical LLM/RAG applications
 🐳 Improve Docker & backend deployment
 🌱 Contribute to open source
-
-
 📈 Contribution Graph
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumit200531&theme=tokyo-night&hide_border=true" /> </div>
-
-
 🤝 Connect With Me
-<div align="center"> <a href="https://github.com/Sumit200531"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </div> <br> <div align="center">
+<div align="center"> <a href="https://github.com/Sumit200531"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a>
+
+<br><br>
+
 ⚡ Code. Build. Learn. Repeat.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/> </div> ```
+
+---
