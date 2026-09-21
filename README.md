@@ -103,7 +103,7 @@ A voice-driven application that processes user speech and recommends songs based
 
 # 🤖 AI / LLM Journey
 
-```text
+```
 LLM Applications
        ↓
 Prompt Engineering
