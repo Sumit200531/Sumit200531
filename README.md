@@ -2,7 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e14,50:141a26,100:0a0e14&height=240&section=header&text=SUMIT%20GOSWAMI&fontSize=54&fontColor=00E5FF&animation=twinkling&fontAlignY=38&desc=building%20things%20somewhere%20between%20backend%2C%20AI%20and%20chaos&descSize=15&descAlignY=62&descAlign=50" width="100%" alt="header" />
 
-<img src="https://github-readme-utils.vercel.app/api/gif/anime" height="180" alt="anime banner gif" />
+<p align="center">
+  <img height="250" src="https://github-readme-utils.vercel.app/api/gif/anime" alt="Anime GIF">
+</p>
+
+<sub><i>status: probably fixing a bug I created 10 minutes ago</i></sub>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2400&pause=800&color=00E5FF&center=true&vCenter=true&repeat=true&width=650&height=50&lines=B.Tech+CSE+Student+%F0%9F%8E%93;Full+Stack+%26+Backend+Developer+%E2%9A%A1;Exploring+LLMs%2C+RAG+%26+Embeddings+%F0%9F%A4%96;Open+to+SWE+Internships+%F0%9F%9A%80" alt="typing" />
 
@@ -44,6 +48,24 @@ $ status
 </table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141a26,100:0a0e14&height=2&section=header" width="100%" />
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0a0e14,100:141a26&height=70&section=header&text=RECRUITER%20TL%3BDR&fontSize=26&fontColor=00E5FF&animation=fadeIn&fontAlignY=65" width="100%" alt="recruiter tldr" />
+</div>
+
+<div align="center">
+
+| | |
+|---|---|
+| 🎓 | B.Tech CSE — actively looking for a **Software Engineering internship** |
+| 🧩 | Comfortable across **full-stack + backend**: Java/Spring Boot, Node/Express, React, MongoDB/MySQL |
+| 🤖 | Building hands-on with **LLMs / RAG / embeddings / vector DBs** — not just reading about them |
+| 🐳 | Ships things with **Docker**, writes tests, actually reads the error message before Googling it (mostly) |
+| ⏱️ | Available: internships, part-time, open-source collabs — reach out below |
+
+</div>
 
 <br/>
 
@@ -248,6 +270,14 @@ flowchart LR
 - If I can't explain why it broke, I don't actually understand it yet.
 - Ship the small version. The big version is just several small versions in a trench coat.
 - Every bug is a free lesson I didn't ask for but am taking anyway.
+
+<br/>
+
+<p align="center">
+  <img height="220" src="https://github-readme-utils.vercel.app/api/gif/anime" alt="Anime GIF">
+</p>
+
+<div align="center"><sub><i>me, explaining to the interviewer why the demo worked five minutes ago</i></sub></div>
 
 <br/>
 
