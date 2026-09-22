@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e14,50:141a26,100:0a0e14&height=240&section=header&text=SUMIT%20GOSWAMI&fontSize=54&fontColor=00E5FF&animation=twinkling&fontAlignY=38&desc=building%20things%20somewhere%20between%20backend%2C%20AI%20and%20chaos&descSize=15&descAlignY=62&descAlign=50" width="100%" alt="header" />
 
+<img src="https://github-readme-utils.vercel.app/api/gif/anime" height="180" alt="anime banner gif" />
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2400&pause=800&color=00E5FF&center=true&vCenter=true&repeat=true&width=650&height=50&lines=B.Tech+CSE+Student+%F0%9F%8E%93;Full+Stack+%26+Backend+Developer+%E2%9A%A1;Exploring+LLMs%2C+RAG+%26+Embeddings+%F0%9F%A4%96;Open+to+SWE+Internships+%F0%9F%9A%80" alt="typing" />
 
 <a href="https://github.com/Sumit200531"><img src="https://img.shields.io/badge/GitHub-Sumit200531-0a0e14?style=for-the-badge&logo=github&logoColor=00E5FF&labelColor=0a0e14" /></a>
@@ -49,6 +51,10 @@ $ status
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0a0e14,100:141a26&height=70&section=header&text=ABOUT%20ME&fontSize=26&fontColor=00E5FF&animation=fadeIn&fontAlignY=65" width="100%" alt="about me" />
 </div>
 
+<table width="100%">
+<tr>
+<td width="70%" valign="top">
+
 ```java
 class Sumit implements Learner, Builder {
 
@@ -64,6 +70,15 @@ class Sumit implements Learner, Builder {
 ```
 
 I write code, break it in ways I didn't think were possible, fix it, and immediately go looking for the next way to break it. Most days that means backend work and full-stack builds — lately it's meant poking at how LLMs, embeddings and RAG actually fit together.
+
+</td>
+<td width="30%" valign="top" align="center">
+
+<img src="https://github-readme-utils.vercel.app/api/gif/anime" height="200" alt="anime gif" />
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -348,6 +363,10 @@ I'm open to SWE internships, open-source contributions, and building AI/backend 
 <a href="https://github.com/Sumit200531"><img src="https://img.shields.io/badge/GitHub-141a26?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LinkedIn-141a26?style=for-the-badge&logo=linkedin&logoColor=00E5FF" /></a>
 <a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-141a26?style=for-the-badge&logo=gmail&logoColor=00E5FF" /></a>
+
+<br/><br/>
+
+<img src="https://github-readme-utils.vercel.app/api/gif/anime" height="160" alt="anime gif" />
 
 <br/><br/>
 
