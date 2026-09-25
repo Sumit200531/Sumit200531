@@ -156,12 +156,14 @@ Known Bugs:  [████████████████████] 100%
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sumit200531&show_icons=true&hide_border=true&bg_color=05070D&title_color=00E5FF&icon_color=7C3AED&text_color=c9d1d9&count_private=true&include_all_commits=true&border_radius=16" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit200531&layout=compact&hide_border=true&bg_color=05070D&title_color=00E5FF&text_color=c9d1d9&border_radius=16" alt="top languages" />
+<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" alt="profile details and contribution graph" />
+<img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="GitHub stats" />
+<img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="most committed languages" />
 
-<img src="https://streak-stats.demolab.com?user=Sumit200531&hide_border=true&background=05070D&stroke=00E5FF&ring=7C3AED&fire=FF3DA8&currStreakLabel=00E5FF&sideLabels=c9d1d9&dates=66748C&border_radius=16" alt="GitHub streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumit200531&bg_color=05070D&color=00E5FF&line=7C3AED&point=FF3DA8&area=true&area_color=7C3AED&hide_border=true&radius=16" width="100%" alt="activity graph" />
+<img src="https://streak-stats.demolab.com?user=Sumit200531&hide_border=true&background=05070D&stroke=00E5FF&ring=7C3AED&fire=FF3DA8&currStreakLabel=00E5FF&sideLabels=c9d1d9&dates=66748C&currStreakNum=FFFFFF&sideNums=FFFFFF&border_radius=16" alt="GitHub streak" />
+
+
 
 <img src="https://raw.githubusercontent.com/Sumit200531/Sumit200531/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake eating my contribution graph" />
 
