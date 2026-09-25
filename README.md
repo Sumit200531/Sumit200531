@@ -27,6 +27,13 @@
 
 <br/>
 
+<div align="center">
+<img src="https://profile-gif.vercel.app/api" width="80%" alt="a random animation, different on every visit" />
+<br/><sub><i>refresh for a different scene</i></sub>
+</div>
+
+<br/>
+
 <img src="./assets/h-about.svg" width="100%" alt="About me" />
 
 ```java
